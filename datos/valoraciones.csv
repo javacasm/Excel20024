@@ -1,0 +1,121 @@
+Alumno,Curso,Valoración,Profesor
+Sofía González,Programación en Python,8,D. Juan
+Juan Martínez,Diseño gráfico básico,7,Da. María
+Laura Rodríguez,Inglés para negocios,9,Da. Laura
+Carlos López,Introducción a la IA,6,D. Carlos
+Ana García,Marketing digital,10,Da. Ana
+Alejandro Ruiz,Fotografía creativa,8,D. Alejandro
+María Pérez,Desarrollo web avanzado,9,Da. María
+Pedro Sánchez,Análisis de datos,7,D. Carlos
+Elena Martín,Gestión de proyectos,9,Da. Ana
+David López,Yoga y meditación,5,D. Juan
+Andrea Sánchez,Cocina italiana,7,Da. Laura
+Roberto Fernández,Finanzas personales,8,D. Alejandro
+Isabel Ruiz,Fotografía de naturaleza,6,Da. María
+Martín López,Diseño de interiores,9,D. Carlos
+Sara Pérez,Programación en Java,8,Da. Ana
+Lucía Rodríguez,Marketing de contenidos,7,D. Alejandro
+Diego Sánchez,Redes informáticas,9,Da. Laura
+Carmen García,Fotografía urbana,6,D. Juan
+Miguel Ruiz,Photoshop avanzado,8,Da. María
+Paula López,Publicidad digital,7,D. Carlos
+Antonio Martínez,Programación en Python,9,D. Juan
+Raquel García,Diseño gráfico básico,6,Da. María
+José Martín,Inglés para negocios,8,Da. Laura
+Marina Sánchez,Introducción a la IA,7,D. Carlos
+Julia Fernández,Marketing digital,9,Da. Ana
+Daniel Rodríguez,Fotografía creativa,7,D. Alejandro
+Adriana Pérez,Desarrollo web avanzado,8,Da. María
+Javier López,Análisis de datos,6,D. Carlos
+Sandra García,Gestión de proyectos,8,Da. Ana
+Hugo Martínez,Yoga y meditación,6,D. Juan
+Natalia Rodríguez,Cocina italiana,8,Da. Laura
+Alejandra Martínez,Finanzas personales,9,D. Alejandro
+Marcos Pérez,Fotografía de naturaleza,7,Da. María
+Claudia López,Diseño de interiores,8,D. Carlos
+Rubén García,Programación en Java,7,Da. Ana
+Marta Rodríguez,Marketing de contenidos,8,D. Alejandro
+Irene Martínez,Redes informáticas,9,Da. Laura
+Alberto Sánchez,Fotografía urbana,7,D. Juan
+Rocío Fernández,Photoshop avanzado,8,Da. María
+Juan José López,Publicidad digital,7,D. Carlos
+Beatriz Martínez,Programación en Python,7,D. Juan
+Eva García,Diseño gráfico básico,8,Da. María
+Mario Martínez,Inglés para negocios,9,Da. Laura
+Lucas Rodríguez,Introducción a la IA,6,D. Carlos
+Carla Sánchez,Marketing digital,10,Da. Ana
+Pablo López,Fotografía creativa,8,D. Alejandro
+Nerea Rodríguez,Desarrollo web avanzado,9,Da. María
+Sergio Martínez,Análisis de datos,7,D. Carlos
+Celia García,Gestión de proyectos,9,Da. Ana
+Judit Martínez,Yoga y meditación,5,D. Juan
+Javier García,Cocina italiana,7,Da. Laura
+Cristina Sánchez,Finanzas personales,8,D. Alejandro
+Ignacio Martínez,Fotografía de naturaleza,6,Da. María
+Alicia Rodríguez,Diseño de interiores,9,D. Carlos
+Manuel García,Programación en Java,8,Da. Ana
+María José López,Marketing de contenidos,7,D. Alejandro
+Sofía Martínez,Redes informáticas,9,Da. Laura
+Juan Antonio López,Fotografía urbana,6,D. Juan
+Elena García,Photoshop avanzado,8,Da. María
+Marcos Martínez,Publicidad digital,7,D. Carlos
+Ana Martínez,Programación en Python,7,D. Juan
+Sara Martínez,Diseño gráfico básico,8,Da. María
+Pedro Martínez,Inglés para negocios,9,Da. Laura
+Laura Martínez,Introducción a la IA,6,D. Carlos
+Carlos Martínez,Marketing digital,10,Da. Ana
+Alejandro Martínez,Fotografía creativa,8,D. Alejandro
+María Martínez,Desarrollo web avanzado,9,Da. María
+Juan Martínez,Análisis de datos,7,D. Carlos
+Elena Martínez,Gestión de proyectos,9,Da. Ana
+David Martínez,Yoga y meditación,5,D. Juan
+Andrea Martínez,Cocina italiana,7,Da. Laura
+Roberto Martínez,Finanzas personales,8,D. Alejandro
+Isabel Martínez,Fotografía de naturaleza,6,Da. María
+Martín Martínez,Diseño de interiores,9,D. Carlos
+Sara Martínez,Programación en Java,8,Da. Ana
+Lucía Martínez,Marketing de contenidos,7,D. Alejandro
+Diego Martínez,Redes informáticas,9,Da. Laura
+Carmen Martínez,Fotografía urbana,6,D. Juan
+Miguel Martínez,Photoshop avanzado,8,Da. María
+Paula Martínez,Publicidad digital,7,D. Carlos
+Antonio Martínez,Programación en Python,9,D. Juan
+Raquel Martínez,Diseño gráfico básico,6,Da. María
+José Martínez,Inglés para negocios,8,Da. Laura
+Marina Martínez,Introducción a la IA,7,D. Carlos
+Julia Martínez,Marketing digital,9,Da. Ana
+Daniel Martínez,Fotografía creativa,7,D. Alejandro
+Adriana Martínez,Desarrollo web avanzado,8,Da. María
+Javier Martínez,Análisis de datos,6,D. Carlos
+Sandra Martínez,Gestión de proyectos,8,Da. Ana
+Hugo Martínez,Yoga y meditación,6,D. Juan
+Natalia Martínez,Cocina italiana,8,Da. Laura
+Alejandra Martínez,Finanzas personales,9,D. Alejandro
+Marcos Martínez,Fotografía de naturaleza,7,Da. María
+Claudia Martínez,Diseño de interiores,8,D. Carlos
+Rubén Martínez,Programación en Java,7,Da. Ana
+Marta Martínez,Marketing de contenidos,8,D. Alejandro
+Irene Martínez,Redes informáticas,9,Da. Laura
+Alberto Martínez,Fotografía urbana,7,D. Juan
+Rocío Martínez,Photoshop avanzado,8,Da. María
+Juan José Martínez,Publicidad digital,7,D. Carlos
+Beatriz Martínez,Programación en Python,7,D. Juan
+Eva Martínez,Diseño gráfico básico,8,Da. María
+Mario Martínez,Inglés para negocios,9,Da. Laura
+Lucas Martínez,Introducción a la IA,6,D. Carlos
+Carla Martínez,Marketing digital,10,Da. Ana
+Pablo Martínez,Fotografía creativa,8,D. Alejandro
+Nerea Martínez,Desarrollo web avanzado,9,Da. María
+Sergio Martínez,Análisis de datos,7,D. Carlos
+Celia Martínez,Gestión de proyectos,9,Da. Ana
+Judit Martínez,Yoga y meditación,5,D. Juan
+Javier Martínez,Cocina italiana,7,Da. Laura
+Cristina Martínez,Finanzas personales,8,D. Alejandro
+Ignacio Martínez,Fotografía de naturaleza,6,Da. María
+Alicia Martínez,Diseño de interiores,9,D. Carlos
+Manuel Martínez,Programación en Java,8,Da. Ana
+María José Martínez,Marketing de contenidos,7,D. Alejandro
+Sofía Martínez,Redes informáticas,9,Da. Laura
+Juan Antonio Martínez,Fotografía urbana,6,D. Juan
+Elena Martínez,Photoshop avanzado,8,Da. María
+Marcos Martínez,Publicidad digital,7,D. Carlos
