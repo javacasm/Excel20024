@@ -1,5 +1,11 @@
 # USOS Y BENEFICIOS DE LAS HERRAMIENTAS DIGITALES, LA INTELIGENCIA ARTIFICIAL Y LAS RRSS EN LA PRÁCTICA ASESORA ([241811GT102](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/241811GT102/))
 
+![](./images/Licencia%20CC%20peque.png)
+
+Licencia CC by SA @javacasm José Antonio Vacas
+
+Abril 2024
+
 Las herramientas para el tratamiento de hojas de cálculo son uno de los programas que más usamos en nuestro día a día. Utilizándolas bien podemos automatizar procesos y cálculos que nos llevarán a trabajar más cómodamente y con menos errores.
 
 ## Objetivos
