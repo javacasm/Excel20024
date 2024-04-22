@@ -4,6 +4,8 @@ Las herramientas para el tratamiento de hojas de cálculo son uno de los program
 
 ## Objetivos
 
+
+
 En este curso pretendemos aprender a:
 
 * Usar las distintas hojas de cálculo existentes en el mercado.
